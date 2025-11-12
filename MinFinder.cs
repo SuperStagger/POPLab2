@@ -11,12 +11,14 @@ namespace POPLab2
         private readonly int[] arr;
         private readonly Range range;
         private readonly Action<int, int> reportResult;
+        private readonly Action reportFinished;
 
-        public MinFinder(int[] arr, Range range, Action<int, int> reportResult)
+        public MinFinder(int[] arr, Range range, Action<int, int> reportResult, Action reportFinished)
         {
             this.arr = arr;
             this.range = range;
             this.reportResult = reportResult;
+            this.reportFinished = reportFinished;
         }
 
         public void Run()
@@ -33,8 +35,8 @@ namespace POPLab2
                 }
             }
 
-            // 🔹 Передаємо знайдений мінімум у головну програму
             reportResult(localMin, localIndex);
+            reportFinished(); 
         }
     }
 }

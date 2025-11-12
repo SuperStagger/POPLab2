@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POPLab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25595648619040934fcc3b65acf78bdab19ee067")]
 [assembly: System.Reflection.AssemblyProductAttribute("POPLab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POPLab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

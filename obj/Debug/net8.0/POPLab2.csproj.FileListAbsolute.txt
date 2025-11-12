@@ -12,3 +12,4 @@ D:\Visual Studio 2022\POPLab2\POPLab2\obj\Debug\net8.0\refint\POPLab2.dll
 D:\Visual Studio 2022\POPLab2\POPLab2\obj\Debug\net8.0\POPLab2.pdb
 D:\Visual Studio 2022\POPLab2\POPLab2\obj\Debug\net8.0\POPLab2.genruntimeconfig.cache
 D:\Visual Studio 2022\POPLab2\POPLab2\obj\Debug\net8.0\ref\POPLab2.dll
+D:\Visual Studio 2022\POPLab2\POPLab2\obj\Debug\net8.0\POPLab2.sourcelink.json
